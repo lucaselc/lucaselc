@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Lucas Leite
 
-## Sobre Mim
-- 🎓 Iniciei minha jornada na computação em 2019, ao ingressar no curso técnico de informática no IFNMG - Campus Salinas,
-- e em 2022, dei um passo adiante ao começar a graduação em Ciência da Computação na UFSJ.
-- 📫 Você pode me contatar pelo e-mail: lucasleite.elc@gmail.com.
+## About Me
+- 🎓 I began my journey in computing in 2019 when I enrolled in the technical course in Informatics at IFNMG - Campus Salinas,
+      and in 2022, I took a step further by starting my undergraduate degree in Computer Science at UFSJ.
+- 📫 You can reach me at: lucasleite.elc@gmail.com.
